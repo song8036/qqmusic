@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2172ce"],{c638:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"live"},[e._v("直播")])},l=[],s=t("2877"),u={},a=Object(s["a"])(u,c,l,!1,null,null,null);n["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-2d2172ce.4fee14af.js.map
